@@ -1,0 +1,26 @@
+[
+    {
+        "player_id": "FIFA001",
+        "name": "Ansh",
+        "country": "India",
+        "score": 2780,
+        "total_world_cup_played": 100,
+        "created_date": "2026-06-20"
+    },
+    {
+        "player_id": "FIFA002",
+        "name": "Dhruv",
+        "country": "Portugal",
+        "score": 1200,
+        "total_world_cup_played": 29,
+        "created_date": "2026-06-20"
+    },
+    {
+        "player_id": "FIFA003",
+        "name": "Goldi",
+        "country": "America",
+        "score": 231,
+        "total_world_cup_played": 14,
+        "created_date": "2026-06-20"
+    }
+]
