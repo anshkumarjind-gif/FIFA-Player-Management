@@ -35,4 +35,4 @@ python fifa.py
 Data saved in FIFA.json
 
 ## Author
-[Your Name]
+[Ansh kumar]
